@@ -4,7 +4,7 @@ A modern resource library for learning AI - from beginners to advanced practitio
 
 ## Overview
 
-AI Wise (AIWise.dev) is a comprehensive learning path for AI enthusiasts, similar to learningseo.io but focused on artificial intelligence concepts, tools, and applications.
+AI Wise (AIWise.dev) is a comprehensive learning path for AI enthusiasts, focused on artificial intelligence concepts, tools, and applications.
 
 ## Features
 
