@@ -1,6 +1,6 @@
 # AI Wise (AIWise.dev)
 
-A modern, dark-themed resource library for learning AI - from beginners to advanced practitioners.
+A modern resource library for learning AI - from beginners to advanced practitioners.
 
 ## Overview
 
